@@ -1,0 +1,41 @@
+﻿Introdução à Informática
+Exercício “Prática Comparativa”
+Objetivo
+Fazer uma análise comparativa para resolver o problema de Matilda.
+  
+Micro Desafios
+
+
+Na família somos três irmãos e nosso pai, que está viajando para o exterior; nos enviou três processadores de presente para as nossas diferentes necessidades: eu (Matilda) pedi a ele um para poder jogar o tão esperado Cyberpunk 2077, meu pequeno irmão, Marcelo, por outro lado, pediu apenas um para rodar a suíte Office 2019 e, por fim, meu irmão mais velho, Carlos, encomendou-lhe um para poder fazer edições de vídeo em um programa chamado Adobe After Effects.
+
+
+Ficamos confusos, pois nosso pai não colocou rótulos que identificam os donos dos processadores.
+
+
+Nosso pai nos enviou os seguintes modelos:
+
+
+Intel Core i3-3217UE 
+Intel Core i5-6360U 
+Intel Core i7-4790 
+
+
+Poderia nos ajudar a descobrir de quem é cada processador?
+
+
+	Matilda
+	PROCESSADOR = Intel Core i7-4790 
+
+	JUSTIFICATIVA = Maior capacidade de processamento gráfico exigida para jogos de alta performance.
+
+
+	Marcelo
+	PROCESSADOR = Intel Core i3-3217UE 
+
+	JUSTIFICATIVA = Exige menos processamento.
+
+
+	Carlos
+	PROCESSADOR = Intel Core i5-6360U
+
+	JUSTIFICATIVA = Processador que responde moderadamente bem a necessidade gráfica de trabalho.
